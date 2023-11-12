@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "295620209234",
+    "firebase_url": "https://basemeals-adb26-default-rtdb.firebaseio.com",
+    "project_id": "basemeals-adb26",
+    "storage_bucket": "basemeals-adb26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295620209234:android:cd135fbb5869affc940d8b",
+        "android_client_info": {
+          "package_name": "com.angelaxd.lab11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfEarWZyq2fT39c1kGZ11ubvE1cs4iI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295620209234:android:aa9cdaf1db86b10c940d8b",
+        "android_client_info": {
+          "package_name": "com.zezzi.eventzezziapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfEarWZyq2fT39c1kGZ11ubvE1cs4iI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
